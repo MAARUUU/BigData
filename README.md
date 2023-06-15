@@ -1,1 +1,1 @@
-# BigData
+# Установка Spark на Ubuntu
